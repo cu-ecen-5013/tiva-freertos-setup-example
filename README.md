@@ -24,4 +24,12 @@ TivaWare SW-TM4C-2.1.4.178.exe
 University of Colorado at Boulder Advanced Embedded Software Development Fall 2019 Final Project: 
 [Course Page](https://sites.google.com/colorado.edu/ecen5013/home)
 
+## Steps to run the sample project
+* Clone the project into the workspace v9 or v8 depending on the CCS version downloaded
+* Open the CCS IDE and select the path as C:\Users\username\workspace_v9\tiva-freertos-setup-example. Press the Launch button.
+* Open resource explorer and import the cloned project to the workspace. 
+* Build and debug the project
+
+
+
 
